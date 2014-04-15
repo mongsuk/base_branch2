@@ -1,3 +1,3 @@
 AB
 CDEF
-hotfix
+Issue 53 finished the new footer
